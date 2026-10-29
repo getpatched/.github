@@ -1,6 +1,6 @@
 # GetPatched
 
-![GetPatched security-fix workflow](https://raw.githubusercontent.com/getpatched/getpatched/main/readme-banner.jpg)
+![GetPatched security-fix workflow](https://raw.githubusercontent.com/getpatched/.github/refs/heads/main/profile/banner.png)
 
 ### Security fixes for software that still matters.
 
